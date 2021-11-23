@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/netflic-demo-card/static/css/main.b43bbf45.chunk.css",
+    "main.js": "/netflic-demo-card/static/js/main.1e6b047c.chunk.js",
+    "main.js.map": "/netflic-demo-card/static/js/main.1e6b047c.chunk.js.map",
+    "runtime-main.js": "/netflic-demo-card/static/js/runtime-main.7c36e8e6.js",
+    "runtime-main.js.map": "/netflic-demo-card/static/js/runtime-main.7c36e8e6.js.map",
+    "static/js/2.a5b05509.chunk.js": "/netflic-demo-card/static/js/2.a5b05509.chunk.js",
+    "static/js/2.a5b05509.chunk.js.map": "/netflic-demo-card/static/js/2.a5b05509.chunk.js.map",
+    "static/js/3.20e1a312.chunk.js": "/netflic-demo-card/static/js/3.20e1a312.chunk.js",
+    "static/js/3.20e1a312.chunk.js.map": "/netflic-demo-card/static/js/3.20e1a312.chunk.js.map",
+    "index.html": "/netflic-demo-card/index.html",
+    "static/css/main.b43bbf45.chunk.css.map": "/netflic-demo-card/static/css/main.b43bbf45.chunk.css.map",
+    "static/js/2.a5b05509.chunk.js.LICENSE.txt": "/netflic-demo-card/static/js/2.a5b05509.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7c36e8e6.js",
+    "static/js/2.a5b05509.chunk.js",
+    "static/css/main.b43bbf45.chunk.css",
+    "static/js/main.1e6b047c.chunk.js"
+  ]
+}
